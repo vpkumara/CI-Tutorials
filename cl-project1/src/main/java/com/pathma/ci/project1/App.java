@@ -8,7 +8,7 @@ public class App
 {
 	
 	public void addNewMethod(){
-		
+		System.out.println( "Hello World!" );
 	}
     public static void main( String[] args )
     {
